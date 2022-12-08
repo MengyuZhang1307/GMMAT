@@ -15,3 +15,4 @@ Encoding: UTF-8
 NeedsCompilation: yes
 Depends: R (>= 3.2.0)
 Packaged: 2021-07-15 06:06:08 UTC; hchen
+RoxygenNote: 7.2.1
